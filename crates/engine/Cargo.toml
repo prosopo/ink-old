@@ -20,7 +20,7 @@ scale = { package = "parity-scale-codec", version = "3.4", default-features = fa
 derive_more = { version = "0.99", default-features = false, features = ["from", "display"] }
 
 sha2 = { version = "0.10" }
-sha3 = { version = "0.10" }
+sha3 = { version = "0.12" }
 blake2 = { version = "0.10" }
 
 # ECDSA for the off-chain environment.
